@@ -1,0 +1,24 @@
+[
+
+{
+		"email" : "jothi.lakshmi@gmail.com",
+		"password" : "Athvika@123",
+		"productName" : "ZARA COAT 3",
+		"CardNo" : "1534 9931 9292 2293",
+		"CVV" : "234",
+		"Name" : "Jothi",
+		"CountryName" : "India"
+}
+,
+{
+		"email" : "anu.akarsha@gmail.com",
+		"password" : "Anu@123456789",
+		"productName" : "ZARA COAT 3",
+		"CardNo" : "5708 9941 9090 1234",
+		"CVV" : "178",
+		"Name" : "Anu",
+		"CountryName" : "India"
+
+}
+
+]
